@@ -1,10 +1,10 @@
 //base by Tech-God
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//YouTube: @davie_032_
+//Instagram: davie_032_
+//Telegram: t.me/davie_032_
+//GitHub: @Davie032
+//WhatsApp: +254114119015
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
 const fs = require('fs')
@@ -14,7 +14,7 @@ const chalk = require('chalk')
 global.ownernomer = "254114119015"
 global.ownername = "Davie"
 global.ytname = "YT: Davie_032_"
-global.socialm = "GitHub: dark-tech-zone"
+global.socialm = "GitHub: Davie032"
 global.location = "Kenya, Nakuru, city"
 
 global.ownernumber = '254114119015'  //creator number
